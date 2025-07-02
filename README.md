@@ -44,12 +44,3 @@ MoodTune supports MoodScale’s mission by promoting mental and emotional wellne
 - Add user accounts with authentication  
 
 ---
-
-## Included Files in Submission
-- app.py → Streamlit app interface  
-- emotion_analysis.py → HuggingFace emotion model  
-- spotify_recommender.py → Spotify integration  
-- requirements.txt → Dependencies  
-- README.md / PDF → Documentation  
-
----
